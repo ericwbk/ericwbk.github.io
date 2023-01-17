@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "eric Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "复旦大学计算机学院"
+  avatar           : "images/10.76cm.jpg"
+  bio              : "蚂蚁集团"
   location         : "Shanghai, China"
-  employer         : #"蚂蚁集团"
+  employer         : #""
   pubmed           : 
   googlescholar    : ""
   email            : "wangbaokunvv@gmail.com"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
