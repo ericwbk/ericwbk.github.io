@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "eric Wang"
+title                    : "Eric Wang"
 description              : "This is the academic homepage of eric Wang."
 repository               : "ericwbk/ericwbk.github.io"
 google_scholar_stats_use_cdn : false
