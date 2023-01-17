@@ -28,10 +28,12 @@ My research interest includes:
 - Machine Learning
 
 # 🎓 Educations 
+
 - *2016.06 - 2022.12*, School of Computer and Technology, Fudan University, Shanghai China. 
 - *2012.09 - 2016.06*, School of Computer and Technology, Ocean University of China, Qingdao China. 
 
 # 🏭 Career
+
 - *2019.01 - Now*, 蚂蚁集团算法专家, Shanghai China.
 - *2018.05 - 2018.07*, 腾讯社交与效果广告部, Shanghai China.
 - *2018.02 - 2018.05*, 上海七牛云AI Lab, Shanghai China.
@@ -41,13 +43,19 @@ My research interest includes:
 - Fanzhen Li, Zhao Li, `Baokun Wang`, Yihua Kang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quanzheng Sheng. eRiskCom: an e-commerce risky community detection platform. The VLDB Journal 31, 1085–1101 (2022). 
 [[HTML]](https://doi.org/10.1007/s00778-021-00723-z) [[PDF]](/pdf/2022_VLDBJ_eRiskCom.pdf)
 
+# 📝 Patents 
+
+- [已授权发明专利 CN111311408B] 电子交易属性识别方法及装置 . 2020.02.
+- [已授权发明专利 CN110705996A] 基于特征掩码的用户行为识别方法、系统、及装置 2020.01.
+- [已授权发明专利 CN111523831B] 风险团伙的识别方法、装置、存储介质和计算机设备 2020.11.
 
 # 🏅 Honors and Awards
-- *2021.05* KDDCUP 2021 PCQM4M-LSC Track 5th(https://ogb.stanford.edu/kddcup2021/results/)
-- *2021* 蚂蚁集团CV数据隐私保护大赛第8名（100+团队）
+
 - *2021.07* 2021世界互联网大会信息通信行业反诈创新项目优秀奖（Risk-alike欺诈团伙发掘 - 全图风控技术）
+- *2021.05* KDDCUP 2021 PCQM4M-LSC Track 5th(https://ogb.stanford.edu/kddcup2021/results/)
+- *2021.03* 蚂蚁集团CV数据隐私保护大赛第8名（100+团队）
 - *2021.03* 蚂蚁集团 机器智能 "鲁班大师奖"，"OCB红草莓奖"
-- 中国海洋大学优秀学生、优秀毕业生.
-- 复旦大学计算机学院研究生奖学金一等奖.
+- *2019.06* 复旦大学计算机学院研究生奖学金一等奖.
+- *2016.06* 中国海洋大学优秀学生、优秀毕业生.
 
   
