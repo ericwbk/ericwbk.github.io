@@ -7,13 +7,13 @@ main:
     url: "/#-educations"
 
   - title: "Career"
-    url: "/#-Career"
+    url: "/#-career"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Patents"
-    url: "/#-Patents"
+    url: "/#-patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
