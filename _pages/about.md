@@ -27,7 +27,6 @@ My research interest includes:
 - Risk Control
 - Machine Learning
 
-
 # 🎓 Educations 
 - *2016.06 - 2022.12*, School of Computer and Technology, Fudan University, Shanghai China. 
 - *2012.09 - 2016.06*, School of Computer and Technology, Ocean University of China, Qingdao China. 
