@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-蚂蚁集团算法专家, 本科毕业于中国海洋大学计算机专业, 研究生毕业于复旦大学上海市数据科学重点实验室. 2019年研究生毕业加入蚂蚁集团, 一直从事基于图的风控算法工作. 整体负责蚂蚁集团全图风控引擎的算法工作, 建设了安全图算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-My research interest includes: 
+蚂蚁集团算法专家, 本科毕业于中国海洋大学计算机专业, 研究生毕业于复旦大学上海市数据科学重点实验室. 2019年研究生毕业加入蚂蚁集团, 一直从事基于图的风控算法工作. 整体负责蚂蚁集团全图风控引擎的算法工作, 建设了安全图算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 我的研究兴趣主要包括: 
 - Graph Neural Networks
+- Dynamic Graph
 - Community Detection
-- Frequent Subgraph Search
+- Frequent Pattern Mining
 - Fraud Detection
 - Risk Control
 - Machine Learning
