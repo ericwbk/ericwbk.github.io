@@ -34,8 +34,8 @@ redirect_from:
 # 🏭 Career
 
 - *2019.01 - Now*, 蚂蚁集团算法专家, Shanghai China.
-- *2018.05 - 2018.07*, 腾讯社交与效果广告部, Shanghai China.
-- *2018.02 - 2018.05*, 上海七牛云AI Lab, Shanghai China.
+- *2018.05 - 2018.07*, [Intern]腾讯社交与效果广告部, Shanghai China.
+- *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
 
 # 📝 Publications 
 
