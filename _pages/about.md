@@ -27,14 +27,14 @@ redirect_from:
 
 # 🎓 Educations 
 
-+ *2016.06 - 2022.12*, School of Computer and Technology, Fudan University, Shanghai China. 
++ *2016.06 - 2010.01*, 硕士, 复旦大学 计算机学院, Shanghai China. 
+  - "华为杯"全国研究生数学建模竞赛三等奖, 2018.
+  - 参与国家重点研发计划 "SKA科学数据处理关键技术研究" 项目, 在第四届数据科学大会(昆明)发表Oral "基于深度学习的脉冲星搜索", 参加第二届国际射电天文研讨会(贵州), 展示Poster "A Pulsar Search Pipeline by Deep Learning" . 参与胜利油田物探研究院项目 "大数据管理及数据挖掘方法研究技术", 基于Bi-LSTM等方法进行储层预测研究.  
++ *2012.09 - 2016.06*, 学士, 中国海洋大学 计算机科学与技术专业, Qingdao China. 
   - 全国大学生数学建模大赛全国一等奖，2014. [链接](http://www.mcm.edu.cn/html_cn/node/252a2e1c3edcd257c78f37a156a81209.html)
   - 美国大学生数学建模竞赛二等奖（Honorable Mention）, 2016. [链接](http://www.ouc.edu.cn/7d/2e/c10639a97582/pagem.psp)
   - 学生工作: 中国海洋大学大学生职业发展协会 主席团成员、环境保护协会秘书处部长、Chinese-Pakistan Iron Brother Club 创始人、"明职顾问" 工作室创始人、班级班长.
   - 保送至复旦大学继续攻读研究生学位（Rank 8th/91）. [链接](https://cs.fudan.edu.cn/13/8f/c24257a267151/page.htm)
-+ *2012.09 - 2016.06*, School of Computer and Technology, Ocean University of China, Qingdao China. 
-  - "华为杯"全国研究生数学建模竞赛三等奖, 2018.
-  - 参与国家重点研发计划 "SKA科学数据处理关键技术研究" 项目, 在第四届数据科学大会(昆明)发表Oral "基于深度学习的脉冲星搜索", 参加第二届国际射电天文研讨会(贵州), 展示Poster "A Pulsar Search Pipeline by Deep Learning" . 参与胜利油田物探研究院项目 "大数据管理及数据挖掘方法研究技术", 基于Bi-LSTM等方法进行储层预测研究.  
 
 # 🏭 Career
 
