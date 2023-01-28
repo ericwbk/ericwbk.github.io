@@ -27,7 +27,7 @@ redirect_from:
 
 # 🎓 Educations 
 
-+ *2016.06 - 2010.01*, 硕士, 复旦大学 计算机学院, Shanghai China. 
++ *2016.06 - 2019.01*, 硕士, 复旦大学 计算机学院, Shanghai China. 
   - "华为杯"全国研究生数学建模竞赛三等奖, 2018.
   - 参与国家重点研发计划 "SKA科学数据处理关键技术研究" 项目, 在第四届数据科学大会(昆明)发表Oral "基于深度学习的脉冲星搜索", 参加第二届国际射电天文研讨会(贵州), 展示Poster "A Pulsar Search Pipeline by Deep Learning" . 参与胜利油田物探研究院项目 "大数据管理及数据挖掘方法研究技术", 基于Bi-LSTM等方法进行储层预测研究.  
 + *2012.09 - 2016.06*, 学士, 中国海洋大学 计算机科学与技术专业, Qingdao China. 
@@ -46,8 +46,8 @@ redirect_from:
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
 
 # 📄 Publications 
-
-- Fanzhen Li, Zhao Li, `Baokun Wang`, Yihua Kang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quanzheng Sheng. eRiskCom: an e-commerce risky community detection platform. The VLDB Journal 31, 1085–1101 (2022). 
+- [WWW 2023] Yuchen Zhou, Yanan Cao, Yongchao Liu, Yanmin Shang, Peng Zhang, Zheng Lin, Yun Yue, `Baokun Wang`, Xing Fu and Weiqiang Wang. Multi-Aspect Heterogeneous Graph Augmentation.
+- [VLDBJ 2022] Fanzhen Liu, Zhao Li, `Baokun Wang`, Yihua Kang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quanzheng Sheng. eRiskCom: an e-commerce risky community detection platform. The VLDB Journal 31, 1085–1101 (2022). 
 [[HTML]](https://doi.org/10.1007/s00778-021-00723-z) [[PDF]](/pdf/2022_VLDBJ_eRiskCom.pdf)
 
 # 📝 Patents 
