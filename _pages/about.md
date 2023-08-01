@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-蚂蚁集团算法专家, 本科毕业于中国海洋大学计算机专业, 研究生毕业于复旦大学上海市数据科学重点实验室. 2019年研究生毕业加入蚂蚁集团, 一直从事基于图的风控算法工作. 整体负责蚂蚁集团全图风控引擎的算法工作, 建设了安全图算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 我的研究兴趣主要包括: 
+蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 一直从事基于图的风控算法工作. 整体负责蚂蚁集团全图风控引擎的算法工作, 建设了安全图算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 我的研究兴趣主要包括: 
 - Graph Neural Networks
 - Dynamic Graph
 - Community Detection
 - Fraud Detection
 - Risk Control
 - Machine Learning
+2022年发表在VLDBJ的方法eRiskCom获得蚂蚁集团优秀论文提名，并获得中国互联网大会反诈创新奖。2023年作为核心成员和算法负责人合作举办“基于预训练模型的社区发现和团伙挖掘(https://tugraph.antgroup.com/blog?id=15)”比赛(蚂蚁TuGraph团队&之江实验室)。
 
 # 🎓 Educations 
 
@@ -44,6 +45,10 @@ redirect_from:
   - 2019.01 ~ 2020.07 (P5) 支付宝"你敢付我敢赔" 账安险骗赔算法owner; 研发了风控领域的 look-alike算法——Risk-alike, 并在蚂蚁、淘宝、高德等数十个场景应用, 该项技术获得 2021 中国互联网大会信通院反诈创新优秀案例奖. [链接](https://baijiahao.baidu.com/s?id=1705330758899415939&wfr=spider&for=pc)
 - *2018.05 - 2018.07*, [Intern]腾讯社交与效果广告部, Shanghai China.
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
+
+# 🌏 Activities 
+- [ICDM 2023 TPC] Tentative Program Committee, Workshop on Incomplete Streaming Data Analysis (ISDA 2023(https://isda2023.github.io/)) in conjunction with the IEEE International Conference on Data Mining (ICDM 2023(https://www.cloud-conf.net/icdm2023/)), 2023.
+- [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 “图风控算法框架GeaSec介绍&案例分享”
 
 # 📄 Publications 
 - [IJCAI 2023] Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, `Baokun Wang`, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs.
