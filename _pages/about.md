@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 一直从事基于图的风控算法工作. 整体负责蚂蚁集团全图风控引擎的算法工作, 建设了安全图算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 我的研究兴趣主要包括: 
+蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 一直从事基于图的风控算法工作. 整体负责蚂蚁集团全图风控引擎的算法工作, 建设了安全图算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 2022年发表在VLDBJ的方法eRiskCom获得蚂蚁集团优秀论文提名，并获得中国互联网大会反诈创新奖. 2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室). 我的研究兴趣主要包括: 
 - Graph Neural Networks
 - Dynamic Graph
 - Community Detection
 - Fraud Detection
 - Risk Control
 - Machine Learning
-2022年发表在VLDBJ的方法eRiskCom获得蚂蚁集团优秀论文提名，并获得中国互联网大会反诈创新奖。2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室)。
 
 # 🎓 Educations 
 
