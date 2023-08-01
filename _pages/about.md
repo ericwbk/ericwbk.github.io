@@ -24,7 +24,7 @@ redirect_from:
 - Fraud Detection
 - Risk Control
 - Machine Learning
-2022年发表在VLDBJ的方法eRiskCom获得蚂蚁集团优秀论文提名，并获得中国互联网大会反诈创新奖。2023年作为核心成员和算法负责人合作举办“[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)”比赛(蚂蚁TuGraph团队&之江实验室)。
+2022年发表在VLDBJ的方法eRiskCom获得蚂蚁集团优秀论文提名，并获得中国互联网大会反诈创新奖。2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室)。
 
 # 🎓 Educations 
 
@@ -47,8 +47,8 @@ redirect_from:
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
 
 # 🌏 Activities 
-- [ICDM 2023 TPC] Tentative Program Committee, Workshop on Incomplete Streaming Data Analysis ([ISDA 2023](https://isda2023.github.io/)) in conjunction with the IEEE International Conference on Data Mining ([ICDM 2023](https://www.cloud-conf.net/icdm2023/)), 2023.
-- [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 “[图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)”
+- [ICDM 2023 TPC] Tentative Program Committee, Workshop on Incomplete Streaming Data Analysis （[ISDA 2023](https://isda2023.github.io/)） in conjunction with the IEEE International Conference on Data Mining （[ICDM 2023](https://www.cloud-conf.net/icdm2023/)）, 2023.
+- [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
 - [IJCAI 2023] Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, `Baokun Wang`, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs.
