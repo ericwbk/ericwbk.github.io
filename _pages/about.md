@@ -41,7 +41,7 @@ redirect_from:
 - *2019.01 - Now*, 蚂蚁集团算法专家, Shanghai China.
   - 2022.08 ~ 至今 (P7) 蚂蚁大安全机器智能团队全图风控引擎算法负责人. 打造安全图算法框架GeaSec( Graph extended analysis for Alipay Security ).打造的能力被蚂蚁内外16个部门使用.
   - 2020.07 ~ 2022.08 (P6) 研发了基于图风控技术的黑产发现全链路解决方案, 开发了Risk-SEED、TransProbe等核心算法, 在多个场景落地.
-  - 2019.01 ~ 2020.07 (P5) 支付宝"你敢付我敢赔" 账安险骗赔算法owner; 研发了风控领域的 look-alike算法——Risk-alike, 并在蚂蚁、淘宝、高德等数十个场景应用, 该项技术获得 2021 中国互联网大会信通院反诈创新优秀案例奖. [链接](https://baijiahao.baidu.com/s?id=1705330758899415939&wfr=spider&for=pc)
+  - 2019.01 ~ 2020.07 (P5) 支付宝"你敢付我敢赔" 账安险骗赔算法owner; 研发了风控领域的 look-alike算法——Risk-alike, 并在蚂蚁、淘宝、高德等数十个场景应用, 该项技术获得 [2021 中国互联网大会信通院反诈创新优秀案例奖](https://baijiahao.baidu.com/s?id=1705330758899415939&wfr=spider&for=pc). 2023年成为阿里云商业化[最佳实践案例](https://www.alibabacloud.com/help/zh/graph-compute/latest/the-graph-compute-solution-for-account-recognition?spm=a2c63.p38356.0.0.16fa3e2cd41fJE).
 - *2018.05 - 2018.07*, [Intern]腾讯社交与效果广告部, Shanghai China.
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
 
