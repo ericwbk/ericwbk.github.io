@@ -50,6 +50,7 @@ redirect_from:
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
+- [Arxiv]Jintang Li, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen*, Zibin Zheng. LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning[[PDF]](https://arxiv.org/abs/2311.16605)
 - [ICDMw 2023]Jiawang Dan, Ruofan Wu, Yunpeng Liu, `Baokun Wang`, Changhua Meng, Tengfei Liu, Tianyi Zhang, Ningtao Wang, Xing Fu, Qi Li, and Weiqiang Wang. Self-supervision meets kernel graph neural models: From architecture to augmentations
 - [IJCAI 2023] Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, `Baokun Wang`, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs.
 - [WWW 2023] Yuchen Zhou, Yanan Cao, Yongchao Liu, Yanmin Shang, Peng Zhang, Zheng Lin, Yun Yue, `Baokun Wang`, Xing Fu and Weiqiang Wang. Multi-Aspect Heterogeneous Graph Augmentation.
@@ -64,7 +65,7 @@ redirect_from:
 - [已授权发明专利 CN111523831B] 风险团伙的识别方法、装置、存储介质和计算机设备 2020.11.
 
 # 🏅 Honors and Awards
-
+- *2023.12* 上海金融科技优秀解决方案（面向金融安全的全图风控解决方案）
 - *2021.07* 2021世界互联网大会信息通信行业反诈创新项目优秀奖（Risk-alike欺诈团伙发掘 - 全图风控技术）
 - *2021.05* KDDCUP 2021 PCQM4M-LSC Track [5th](https://ogb.stanford.edu/kddcup2021/results/)
 - *2021.03* 蚂蚁集团CV数据隐私保护大赛第8名（100+团队）
