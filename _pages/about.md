@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 一直从事金融风控算法研究工作. 目前在蚂蚁集团担任图风控算法负责人，大模型安全-数据安全算法负责人. 建设了图风控算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在VLDBJ, IJCAI, WWW等人工智能顶级会议上发表过论文. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 2022年发表在VLDBJ的方法eRiskCom获得中国互联网大会反诈创新奖. 2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室). 我的研究兴趣主要包括: 
+蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 一直从事金融风控算法研究工作. 目前在蚂蚁集团担任图风控算法负责人，大模型安全-数据安全算法负责人. 2023年联合清华、北邮、中山、交大、复旦、之江实验室、淘天集团发布了行业内第一个[《图风控行业技术报告》](https://mdn.alipayobjects.com/huamei_evip3z/afts/file/A*ezdlRLEMOf4AAAAAAAAAAAAADoGbAQ/%E5%9B%BE%E9%A3%8E%E6%8E%A7%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf).建设了图风控算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在VLDBJ, IJCAI, WWW等人工智能顶级会议上发表过论文. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 2022年发表在VLDBJ的方法eRiskCom获得中国互联网大会反诈创新奖. 2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室). 建设的大模型数据安全全链路防御系统已经在蚂蚁自研大模型全面上线。我的研究兴趣主要包括: 
 - Graph Neural Networks
 - Dynamic Graph
 - Community Detection
@@ -46,6 +46,8 @@ redirect_from:
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
 
 # 🌏 Activities 
+- [2023.12清华冬季课程] 清华-蚂蚁联合课程现场讲授支付宝业务安全《支付宝中场战事》
+- [图风控行业技术报告2023发布, 36Kr深度采访] 图风控，数智经济的“新技术革命”. [链接](https://m.36kr.com/p/2559133262372231)
 - [ICDM 2023 TPC] Tentative Program Committee, Workshop on Incomplete Streaming Data Analysis （[ISDA 2023](https://isda2023.github.io/)） in conjunction with the IEEE International Conference on Data Mining （[ICDM 2023](https://www.cloud-conf.net/icdm2023/)）, 2023.
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
@@ -65,12 +67,14 @@ redirect_from:
 - [已授权发明专利 CN111523831B] 风险团伙的识别方法、装置、存储介质和计算机设备 2020.11.
 
 # 🏅 Honors and Awards
-- *2023.12* 上海金融科技优秀解决方案（面向金融安全的全图风控解决方案）
-- *2021.07* 2021世界互联网大会信息通信行业反诈创新项目优秀奖（Risk-alike欺诈团伙发掘 - 全图风控技术）
+- *2023.12* [市级]上海金融科技优秀解决方案（面向金融安全的全图风控解决方案）
+- *2021.12* [公司级]蚂蚁集团学术之星（学术贡献奖）
+- *2021.07* [协会级]2021世界互联网大会信息通信行业反诈创新项目优秀奖（Risk-alike欺诈团伙发掘 - 全图风控技术）
 - *2021.05* KDDCUP 2021 PCQM4M-LSC Track [5th](https://ogb.stanford.edu/kddcup2021/results/)
-- *2021.03* 蚂蚁集团CV数据隐私保护大赛第8名（100+团队）
-- *2021.03* 蚂蚁集团 机器智能 "鲁班大师奖"，"OCB红草莓奖"
-- *2019.06* 复旦大学计算机学院研究生奖学金一等奖.
-- *2016.06* 中国海洋大学优秀学生、优秀毕业生.
+- *2021.03* [公司级]蚂蚁集团CV数据隐私保护大赛第8名（100+团队）
+- *2021.03* [部门级]蚂蚁集团 机器智能 "鲁班大师奖"，"OCB红草莓奖"
+- *2019.09* [部门级]蚂蚁集团 风险与决策中心新人奖 “万万没想到奖”
+- *2019.06* [学院级]复旦大学计算机学院研究生奖学金一等奖.
+- *2016.06* [校级]中国海洋大学优秀学生、优秀毕业生.
 
   
