@@ -53,6 +53,8 @@ redirect_from:
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
+- [ECMLPKDD 2024]Boci Peng, Yongchao Liu, He Xiao, Sheng Tian, `Baokun Wang`, Chuntao Hong, Yan Zhang. Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering.
+- [ECMLPKDD 2024]Sheng Tian, Xintian Zeng, Yifei Hu, `Baokun Wang`, Yongchao Liu, Yue Jin, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang. GraphRPM: Risk Pattern Mining on Industrial Large Attributed Graphs
 - [KDD 2024]Yunfei Liu, Jintang Li, Yuehe Chen, Ruofan Wu, `Baokun Wang`, Jing Zhou, Sheng Tian, Shuheng Shen, Xing Fu, Changhua Meng, Weiqiang Wang, Liang Chen.Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective.
 - [ICLR 2024]Jintang Li, Huizhe Zhang, Ruofan Wu, Zulun Zhu, `Baokun Wang`, Changhua Meng, Zibin Zheng, Liang Chen*. A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks. [[PDF]](https://arxiv.org/pdf/2305.19306.pdf)
 - [ICDMw 2023]Jiawang Dan, Ruofan Wu, Yunpeng Liu, `Baokun Wang`, Changhua Meng, Tengfei Liu, Tianyi Zhang, Ningtao Wang, Xing Fu, Qi Li, and Weiqiang Wang. Self-supervision meets kernel graph neural models: From architecture to augmentations
