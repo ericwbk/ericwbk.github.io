@@ -17,13 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 一直从事金融风控算法研究工作. 先后担任图风控算法团队负责人、大模型安全-数据安全算法团队负责人、账户认知和安全团队负责人等. 2023年联合清华、北邮、中山、交大、复旦、之江实验室、淘天集团发布了行业内第一个[《图风控行业技术报告》](https://mdn.alipayobjects.com/huamei_evip3z/afts/file/A*ezdlRLEMOf4AAAAAAAAAAAAADoGbAQ/%E5%9B%BE%E9%A3%8E%E6%8E%A7%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf).建设了图风控算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在VLDBJ, IJCAI, WWW等人工智能顶级会议上发表过论文. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 2022年发表在VLDBJ的方法eRiskCom获得中国互联网大会反诈创新奖. 2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室). 建设的大模型数据安全全链路防御系统已经在蚂蚁自研大模型全面上线。我的研究兴趣主要包括: 
-- Graph Neural Networks
-- Dynamic Graph
-- Community Detection
-- Fraud Detection
-- Risk Control
-- Machine Learning
+蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室, 本科毕业于中国海洋大学计算机专业. 2019年研究生毕业加入蚂蚁集团, 先后担任图风控算法团队负责人、大模型安全-数据安全算法团队负责人、用户认知算法团队负责人等. 2023年联合清华、北邮、中山、交大、复旦、之江实验室、淘天集团发布了行业内第一个[《图风控行业技术报告》](https://mdn.alipayobjects.com/huamei_evip3z/afts/file/A*ezdlRLEMOf4AAAAAAAAAAAAADoGbAQ/%E5%9B%BE%E9%A3%8E%E6%8E%A7%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf).建设了图风控算法框架GeaSec, 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps. 在VLDBJ, IJCAI, WWW, KDD等人工智能顶级会议上发表过论文. 在相关方向有一些研究<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 2022年发表在VLDBJ的方法eRiskCom获得中国互联网大会反诈创新奖. 2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室). 建设的大模型数据安全全链路防御系统已经在蚂蚁自研大模型全面上线。我的研究兴趣主要包括: 
 
 # 🎓 Educations 
 
@@ -39,7 +33,7 @@ redirect_from:
 # 🏭 Career
 
 - *2019.01 - Now*, 蚂蚁集团算法专家, Shanghai China.
-    - 2024.01 ~ Now 蚂蚁账户认知和安全团队负责人，负责全量支付宝账户准入、使用风险治理，打造了账户评级、账户大模型等核心能力，在风险治理、营销圈选等场景广泛使用。
+    - 2024.01 ~ Now 蚂蚁用户认知和安全团队负责人，负责全量支付宝账户准入、使用风险治理，打造了账户评级、账户大模型等核心能力，在风险治理、营销圈选等近100+场景广泛使用。
   - 2022.08 ~ 2024.01 蚂蚁大安全机器智能团队全图风控引擎算法团队负责人/大模型数据安全算法团队负责人. 打造安全图算法框架GeaSec( Graph extended analysis for Alipay Security ).打造的能力被蚂蚁内外16个部门使用.
   - 2020.07 ~ 2022.08 (P6) 研发了基于图风控技术的黑产发现全链路解决方案, 开发了Risk-SEED、TransProbe等核心算法, 在多个场景落地.
   - 2019.01 ~ 2020.07 (P5) 支付宝"你敢付我敢赔" 账安险骗赔算法owner; 研发了风控领域的 look-alike算法——Risk-alike, 并在蚂蚁、淘宝、高德等数十个场景应用, 该项技术获得 [2021 中国互联网大会信通院反诈创新优秀案例奖](https://baijiahao.baidu.com/s?id=1705330758899415939&wfr=spider&for=pc). 2023年成为阿里云商业化[最佳实践案例](https://www.alibabacloud.com/help/zh/graph-compute/latest/the-graph-compute-solution-for-account-recognition?spm=a2c63.p38356.0.0.16fa3e2cd41fJE).
