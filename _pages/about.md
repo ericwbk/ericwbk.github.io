@@ -41,6 +41,7 @@ redirect_from:
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
 
 # 🌏 Activities 
+- [2024.12清华冬季课程] 清华-蚂蚁联合课程现场讲授支付宝《蚂蚁用户认知体系建设》
 - [2024全球软件工程技术大会-深圳] 业务架构实践专场分享“支付宝用户认知体系建设”
 - [2023.12清华冬季课程] 清华-蚂蚁联合课程现场讲授支付宝业务安全《支付宝中场战事》
 - [图风控行业技术报告2023发布, 36Kr深度采访] 图风控，数智经济的“新技术革命”. [链接](https://m.36kr.com/p/2559133262372231)
@@ -48,6 +49,7 @@ redirect_from:
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
+- [WWW 2025]Bin Dou, `Baokun Wang`, Yun Zhu, Xiaotong Lin, Yike Xu, Xiaorui Huang, Yang Chen, Yun Liu, Shaoshuai Han, Yongchao Liu, Tianyi Zhang, Yu Cheng, Weiqiang Wang and Chuntao Hong. Transferable and Forecastable User Targeting Foundation Model.
 - [ECMLPKDD 2024]Boci Peng, Yongchao Liu, He Xiao, Sheng Tian, `Baokun Wang`, Chuntao Hong, Yan Zhang. Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering.
 - [ECMLPKDD 2024]Sheng Tian, Xintian Zeng, Yifei Hu, `Baokun Wang`, Yongchao Liu, Yue Jin, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang. GraphRPM: Risk Pattern Mining on Industrial Large Attributed Graphs
 - [KDD 2024]Yunfei Liu, Jintang Li, Yuehe Chen, Ruofan Wu, `Baokun Wang`, Jing Zhou, Sheng Tian, Shuheng Shen, Xing Fu, Changhua Meng, Weiqiang Wang, Liang Chen.Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective.
