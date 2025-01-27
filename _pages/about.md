@@ -34,11 +34,12 @@ redirect_from:
 
 - *2019.01 - Now*, 蚂蚁集团算法专家, Shanghai China.
   - 2024.01 ~ Now 蚂蚁用户认知和算法团队负责人，负责用户基础认知、用户表征生成、推荐系统等能力建设，同时负责新业务中feeds流推荐建设、新业务人群定向投放、全量支付宝账户准入/使用风险防控等业务场景。打造的用户理解大模型FIND在100多个场景应用。
-  - 2022.08 ~ 2024.01 蚂蚁大安全机器智能团队全图风控引擎算法团队负责人/大模型数据安全算法团队负责人. 打造安全图算法框架GeaSec( Graph extended analysis for Alipay Security ), 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps, 该能力被蚂蚁内外16个部门使用.
-  - 2020.07 ~ 2022.08 (P6) 研发了基于图风控技术的黑产发现全链路解决方案, 开发了Risk-SEED、TransProbe等核心算法, 在多个场景落地.
+  - 2022.08 ~ 2024.01 蚂蚁大安全机器智能团队全图风控引擎算法团队负责人/大模型数据安全算法团队负责人. 打造安全图算法框架GeaSec( Graph extended analysis for Alipay Security ), 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps, 该能力被蚂蚁内外16个部门使用。
+  - 2020.07 ~ 2022.08 (P6) 研发了基于图风控技术的黑产发现全链路解决方案, 开发了Risk-SEED、TransProbe等核心算法, 在多个场景落地。
   - 2019.01 ~ 2020.07 (P5) 支付宝"你敢付我敢赔" 账安险骗赔算法owner; 研发了风控领域的 look-alike算法——Risk-alike, 并在蚂蚁、淘宝、高德等数十个场景应用, 该项技术获得 [2021 中国互联网大会信通院反诈创新优秀案例奖](https://baijiahao.baidu.com/s?id=1705330758899415939&wfr=spider&for=pc). 2023年成为阿里云商业化[最佳实践案例](https://www.alibabacloud.com/help/zh/graph-compute/latest/the-graph-compute-solution-for-account-recognition?spm=a2c63.p38356.0.0.16fa3e2cd41fJE).
-- *2018.05 - 2018.07*, [Intern]腾讯社交与效果广告部, Shanghai China.
-- *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China.
+- *2018.07 - 2018.09*, [Intern]腾讯社交与效果广告部, Shanghai China。
+- *2018.05 - 2018.07*, [Intern]蚂蚁集团大安全决策科学, Hangzhou China。
+- *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China。
 
 # 🌏 Activities 
 - [2024.12清华冬季课程] 清华-蚂蚁联合课程现场讲授支付宝《蚂蚁用户认知体系建设》
