@@ -50,7 +50,8 @@ redirect_from:
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
-- [WWW 2025]Bin Dou, `Baokun Wang`, Yun Zhu, Xiaotong Lin, Yike Xu, Xiaorui Huang, Yang Chen, Yun Liu, Shaoshuai Han, Yongchao Liu, Tianyi Zhang, Yu Cheng, Weiqiang Wang and Chuntao Hong. Transferable and Forecastable User Targeting Foundation Model.[[PDF]](https://arxiv.org/pdf/2412.12468)
+- [WWW 2025]Bin Dou, `Baokun Wang`, Yun Zhu, Xiaotong Lin, Yike Xu, Xiaorui Huang, Yang Chen, Yun Liu, Shaoshuai Han, Yongchao Liu, Tianyi Zhang, Yu Cheng, Weiqiang Wang and Chuntao Hong. Transferable and Forecastable User Targeting Foundation Model.<font color=#FF0000>(Oral)</font> 
+[[PDF]](https://arxiv.org/pdf/2412.12468)
 - [ECMLPKDD 2024]Boci Peng, Yongchao Liu, He Xiao, Sheng Tian, `Baokun Wang`, Chuntao Hong, Yan Zhang. Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering.[[PDF]](https://arxiv.org/pdf/2411.06866)
 - [ECMLPKDD 2024]Sheng Tian, Xintian Zeng, Yifei Hu, `Baokun Wang`, Yongchao Liu, Yue Jin, Changhua Meng, Chuntao Hong, Tianyi Zhang, Weiqiang Wang. GraphRPM: Risk Pattern Mining on Industrial Large Attributed Graphs[[PDF]](https://arxiv.org/pdf/2411.06878)
 - [KDD 2024]Yunfei Liu, Jintang Li, Yuehe Chen, Ruofan Wu, `Baokun Wang`, Jing Zhou, Sheng Tian, Shuheng Shen, Xing Fu, Changhua Meng, Weiqiang Wang, Liang Chen.Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective.[[PDF]](https://arxiv.org/pdf/2406.14288)
