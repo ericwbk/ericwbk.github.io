@@ -60,7 +60,7 @@ redirect_from:
 - [WWW 2023] Yuchen Zhou, Yanan Cao, Yongchao Liu, Yanmin Shang, Peng Zhang, Zheng Lin, Yun Yue, `Baokun Wang`, Xing Fu and Weiqiang Wang. Multi-Aspect Heterogeneous Graph Augmentation.
 - [VLDBJ 2022] Fanzhen Liu, Zhao Li, `Baokun Wang`<font color='#FF0000'> (co-first author) </font>, Yihua Kang, Jia Wu, Jian Yang, Jiaming Huang, Yiqing Zhang, Weiqiang Wang, Shan Xue, Surya Nepal, Quanzheng Sheng. eRiskCom: an e-commerce risky community detection platform. The VLDB Journal 31, 1085–1101 (2022). 
 [[HTML]](https://doi.org/10.1007/s00778-021-00723-z) [[PDF]](/pdf/2022_VLDBJ_eRiskCom.pdf)
-- [Arxiv]Jintang Li, Zheng Wei, Jiawang Dan, Jing Zhou, Yuchang Zhu, Ruofan Wu, `Baokun Wang`, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen. LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning[[PDF]](https://arxiv.org/pdf/2310.11664)
+- [Arxiv]Jintang Li, Zheng Wei, Jiawang Dan, Jing Zhou, Yuchang Zhu, Ruofan Wu, `Baokun Wang`, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen. Hetero$^2$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs[[PDF]](https://arxiv.org/pdf/2310.11664)
 - [Arxiv]Jintang Li, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, `Baokun Wang`, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen, Zibin Zheng. LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning[[PDF]](https://arxiv.org/abs/2311.16605)
 - [Arxiv] Jiafu Wu, Mufeng Yao, Dong Wu, Mingmin Chi, `Baokun Wang`, Ruofan Wu, Xin Fu, Changhua Meng and Weiqiang Wang. DEDGAT: Dual Embedding of Directed Graph Attention Networks for Detecting Financial Risk[J/OL]. https://arxiv.org/abs/2303.03933, 2023-3. [[PDF]](https://arxiv.org/pdf/2303.03933.pdf)
 
