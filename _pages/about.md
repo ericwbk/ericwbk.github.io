@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-蚂蚁集团算法专家, 研究生毕业于复旦大学上海市数据科学重点实验室，本科毕业于中国海洋大学计算机专业。2019年研究生毕业加入蚂蚁集团，目前担任用户认知团队负责人，负责用户理解、用户表征、推荐系统、图算法等能力建设。核心工作包括提出了基于LLM的用户理解大模型FIND，图风控算法框架Geasec，团伙挖掘基础框架Risk-alike，这些能力在蚂蚁和阿里内部广泛应用。加入蚂蚁后先后担任图风控算法团队负责人、大模型安全-数据安全算法团队负责人、用户认知算法团队负责人等。2023年联合清华、北邮、中山、交大、复旦、之江实验室、淘天集团发布了行业内第一个[《图风控行业技术报告》](https://mdn.alipayobjects.com/huamei_evip3z/afts/file/A*ezdlRLEMOf4AAAAAAAAAAAAADoGbAQ/%E5%9B%BE%E9%A3%8E%E6%8E%A7%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)。在VLDBJ/IJCAI/WWW/KDD等人工智能顶级会议上发表过论文。在相关方向有一些论文发表<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。2022年发表在VLDBJ的方法eRiskCom获得中国互联网大会反诈创新奖，2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室)，建设的大模型数据安全全链路防御系统已经在蚂蚁自研大模型全面上线。2024年打造的基于大模型的用户表征生成和自然语言圈人系统“AI智选”入选2024世界人工智能大会WAIC大模型典型示范应用。
+蚂蚁集团算法专家, 研究生毕业于复旦大学计算机技术专业。2019年加入蚂蚁集团，目前担任用户认知团队负责人，负责用户理解、用户表征、推荐系统、图算法等能力建设。核心工作包括提出了基于LLM的用户理解大模型FIND，图风控算法框架Geasec，团伙挖掘基础框架Risk-alike，这些能力在蚂蚁和阿里内部广泛应用。加入蚂蚁后先后担任图风控算法团队负责人、大模型安全-数据安全算法团队负责人、用户认知算法团队负责人等。2023年联合清华、北邮、中山、交大、复旦、之江实验室、淘天集团发布了行业内第一个[《图风控行业技术报告》](https://mdn.alipayobjects.com/huamei_evip3z/afts/file/A*ezdlRLEMOf4AAAAAAAAAAAAADoGbAQ/%E5%9B%BE%E9%A3%8E%E6%8E%A7%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)。在VLDBJ/IJCAI/WWW/KDD等人工智能顶级会议上发表过论文。在相关方向有一些论文发表<a href='https://scholar.google.com/citations?user=AsSLgc8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。2022年发表在VLDBJ的方法eRiskCom获得中国互联网大会反诈创新奖，2023年作为核心成员和算法负责人合作举办[基于预训练模型的社区发现和团伙挖掘](https://tugraph.antgroup.com/blog?id=15)比赛(蚂蚁TuGraph团队&之江实验室)，建设的大模型数据安全全链路防御系统已经在蚂蚁自研大模型全面上线。2024年打造的基于大模型的用户表征生成和自然语言圈人系统“AI智选”入选2024世界人工智能大会WAIC大模型典型示范应用。
 
 # 🎓 Educations 
 
@@ -42,6 +42,7 @@ redirect_from:
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China。
 
 # 🌏 Activities 
+- [2025.05 A2M互联网架构与AI技术峰会] 用户理解范式重构：蚂蚁FIND大模型的多源数据对齐与营销决策效率跃迁. [链接](https://a2m.msup.com.cn/course?aid=4488&cid=18257&city=shanghai)
 - [2024.12清华冬季课程] 清华-蚂蚁联合课程现场讲授支付宝《蚂蚁用户认知体系建设》
 - [2024全球软件工程技术大会-深圳] 业务架构实践专场分享“支付宝用户认知体系建设”
 - [2023.12清华冬季课程] 清华-蚂蚁联合课程现场讲授支付宝业务安全《支付宝中场战事》
