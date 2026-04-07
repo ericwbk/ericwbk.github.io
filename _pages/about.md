@@ -52,6 +52,7 @@ redirect_from:
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
+- [ACL Findings 2026] Jinsong Shu, Chenyang Wu, Zhongle Xie, `Baokun Wang`, Lidan Shou. MM-ShiftKV: Decode-Aware Prefill-Stage KV Selection for Multimodal Large Language Models.
 - [HPDC 2026] Chengying Huan, Ziheng Meng, Zhengyi Yang, Yongchao Liu, Jie Zhang, Qing Wang, Jing Wang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Rong Gu, `Baokun Wang`, Guihai Chen, Chen Tian. "BCCE: block-centric GPU co-design for real-time range-top-k query at scale". 35th ACM International Symposium on High-Performance Parallel and Distributed Computing, 2026.<font color='#FF0000'> (CCF A) </font>
 - [WWW 2025]Bin Dou, `Baokun Wang`<font color='#FF0000'> (correspondence) </font>, Yun Zhu, Xiaotong Lin, Yike Xu, Xiaorui Huang, Yang Chen, Yun Liu, Shaoshuai Han, Yongchao Liu, Tianyi Zhang, Yu Cheng, Weiqiang Wang and Chuntao Hong. Transferable and Forecastable User Targeting Foundation Model.<font color='#FF0000'> (Oral) </font>[[PDF]](https://arxiv.org/pdf/2412.12468)<font color='#FF0000'> (CCF A) </font>
 - [ECMLPKDD 2024]Boci Peng, Yongchao Liu, He Xiao, Sheng Tian, `Baokun Wang`, Chuntao Hong, Yan Zhang. Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering.[[PDF]](https://arxiv.org/pdf/2411.06866)<font color='#FF0000'> (CCF B) </font>
