@@ -32,7 +32,7 @@ redirect_from:
 
 # 🏭 Career
 
-- *2019.01 - Now*, 蚂蚁集团算法专家, Shanghai China.
+- *2019.01 - Now*, 蚂蚁集团高级算法专家, Shanghai China.
   - 2024.01 ~ Now 蚂蚁用户认知和算法团队负责人，负责用户基础认知、用户表征生成、推荐系统等能力建设，同时负责新业务中feeds流推荐建设、新业务人群定向投放、全量支付宝账户准入/使用风险防控等业务场景。打造的用户理解大模型FIND在100多个场景应用。
   - 2022.08 ~ 2024.01 蚂蚁大安全机器智能团队全图风控引擎算法团队负责人/大模型数据安全算法团队负责人. 打造安全图算法框架GeaSec( Graph extended analysis for Alipay Security ), 包括基于torch的GNN算法代码库GREAT(GNN based Risk Exploration Algorithms using Torch)和图上异常检测工具(GAD tools). 与上下游的技术, 业务同学打造图机器学习标准工作流 GMLOps, 该能力被蚂蚁内外16个部门使用。
   - 2020.07 ~ 2022.08 研发了基于图风控技术的黑产发现全链路解决方案, 开发了Risk-SEED、TransProbe等核心算法, 在多个场景落地。
@@ -42,6 +42,7 @@ redirect_from:
 - *2018.02 - 2018.05*, [Intern]上海七牛云AI Lab, Shanghai China。
 
 # 🌏 Activities 
+- [2026.11 浙江大学合作课程] 灵模——面向结构化数据的端到端Agentic Modeling智能体.
 - [2026.10 智能体应用与架构工程大会] 灵模——面向结构化数据的端到端Agentic Modeling智能体.
 - [2025.10 上海交通大学合作课程] 上海交大-蚂蚁联合课程现场讲授“面向多源异构数据的预训练大模型”.
 - [2025.05 A2M互联网架构与AI技术峰会] 用户理解范式重构：蚂蚁FIND大模型的多源数据对齐与营销决策效率跃迁. [链接](https://a2m.msup.com.cn/course?aid=4488&cid=18257&city=shanghai)
