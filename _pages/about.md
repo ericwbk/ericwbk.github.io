@@ -54,6 +54,7 @@ redirect_from:
 - [TuGraph×DataFun 线下Meetup] 2023.07.29 线下&线上分享 [图风控算法框架GeaSec介绍&案例分享](https://mp.weixin.qq.com/s/Fr442WW4mUx9A_U6i9byhw)
 
 # 📄 Publications 
+- [KDD 2027]Junru Zhang, Jinyong Wen, Bin Dou, Wuliang Huang, `Baokun Wang`, Yu Cheng, Weiqiang Wang, Cheng Peng. Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation.[[PDF]]<font color='#FF0000'> (CCF A) </font>
 - [KDD 2026]Jiahao Yuan, Yike Xu, Jinyong Wen, `Baokun Wang`, Ziyi Gao, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie. Query as Anchor: Scenario-Adaptive User Representation via Large Language Model.[[PDF]](https://arxiv.org/pdf/2602.14492)<font color='#FF0000'> (CCF A) </font>
 - [KDD 2026 Oral]Chuan He, Yang Chen, Bin Dou, Wuliang Huang, `Baokun Wang`, Yongchao Liu, Xing Fu, Yu Cheng, Chuntao Hong, Weiqiang Wang, Zhongle Xie, Jiajun Zheng, Xin-Wei Yao. Learning Unified User Quantized Tokenizers for User Representation.[[PDF]](https://arxiv.org/abs/2508.00956)<font color='#FF0000'> (CCF A) </font>
 - [ACL Findings 2026] Jinsong Shu, Chenyang Wu, Zhongle Xie, `Baokun Wang`, Lidan Shou. MM-ShiftKV: Decode-Aware Prefill-Stage KV Selection for Multimodal Large Language Models.
